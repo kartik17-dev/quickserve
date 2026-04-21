@@ -1,0 +1,9 @@
+{
+  "name": "Supreme Kitchen (Netlify Ready)",
+  "description": "A production-optimized food ordering system with Razorpay payments and Supabase real-time updates. Fully configured for deployment on Netlify with serverless functions and SPA routing.",
+  "requestFramePermissions": [
+    "camera",
+    "bluetooth"
+  ],
+  "majorCapabilities": []
+}
